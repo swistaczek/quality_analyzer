@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/quality_analyzer.rb",
+    "quality_analyzer.gemspec",
     "test/helper.rb",
     "test/test_quality_analyzer.rb"
   ]
