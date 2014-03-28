@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ernest Bursa"]
   s.date = "2014-03-28"
-  s.description = "Test"
+  s.description = "TODO: longer description of your gem"
   s.email = "ernest@bzdury.pl"
   s.extra_rdoc_files = [
     "LICENSE.txt",
