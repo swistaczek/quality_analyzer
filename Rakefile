@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "quality_analyzer"
   gem.homepage = "http://github.com/swistaczek/quality_analyzer"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{gem}
+  gem.description = %Q{gem}
   gem.email = "ernest@bzdury.pl"
   gem.authors = ["Ernest Bursa"]
   # dependencies defined in Gemfile
